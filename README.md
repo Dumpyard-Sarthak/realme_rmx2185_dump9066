@@ -1,0 +1,14 @@
+# full_oppo6765-user 10 QP1A.190711.020 68b77aba7cb33275 release-keys
+- manufacturer: 
+- platform: 
+- codename: RMX2185
+- flavor: aosp_RMX2185-userdebug
+- release: 11
+- id: RQ2A.210305.006
+- incremental: 1615656968
+- tags: test-keys
+- fingerprint: google/sunfish/sunfish:11/RQ1A.210205.004/7038034:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: full_oppo6765-user-10-QP1A.190711.020-68b77aba7cb33275-release-keys
+- repo: realme_rmx2185_dump9066
